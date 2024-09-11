@@ -1,6 +1,6 @@
 ﻿namespace LocalEventManagementSystem
 {
-    partial class Form1
+    partial class FormEventCreation
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FormEventCreation
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            //this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "FormEventCreation";
+            this.Text = "FormEventCreation";
+            //this.Load += new System.EventHandler(this.FormEventCreation_Load);
             this.ResumeLayout(false);
 
         }
@@ -45,4 +45,3 @@
         #endregion
     }
 }
-

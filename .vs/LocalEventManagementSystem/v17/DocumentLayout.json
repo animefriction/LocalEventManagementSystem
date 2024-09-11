@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formeventcreation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formeventcreation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formeventcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formeventcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formeventcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formeventcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|c:\\users\\rishi\\source\\repos\\localeventmanagementsystem\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1607038-F019-4DD2-A0AA-F8A837EDF553}|LocalEventManagementSystem.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +55,108 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormEventCreation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.Designer.cs",
+              "RelativeDocumentMoniker": "FormEventCreation.Designer.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.Designer.cs",
+              "RelativeToolTip": "FormEventCreation.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:11:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCart.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.cs",
+              "RelativeDocumentMoniker": "FormCart.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.cs",
+              "RelativeToolTip": "FormCart.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAD4v10AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:01:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEventCreation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.cs",
+              "RelativeDocumentMoniker": "FormEventCreation.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.cs [Design]",
+              "RelativeToolTip": "FormEventCreation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:53:50.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEventCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.cs",
+              "RelativeDocumentMoniker": "FormEventCreation.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormEventCreation.cs",
+              "RelativeToolTip": "FormEventCreation.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAD4v2UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:55:59.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:10:21.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.Designer.cs",
+              "RelativeDocumentMoniker": "FormCart.Designer.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.Designer.cs",
+              "RelativeToolTip": "FormCart.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:10:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.cs",
+              "RelativeDocumentMoniker": "FormCart.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\FormCart.cs [Design]",
+              "RelativeToolTip": "FormCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:57:34.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vy0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:04:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -27,6 +165,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T05:44:22.18Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\Rishi\\source\\repos\\LocalEventManagementSystem\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:52:21.394Z",
+              "EditorCaption": ""
             }
           ]
         }
